@@ -23,6 +23,6 @@
     "tests"
   ],
   "dependencies": {
-    "px-defaults-design": "https://github.com/RossRothenstine/px-defaults-design.git#~0.2.7"
+    "px-defaults-design": "https://github.com/RossRothenstine/px-defaults-design.git#~0.2.8"
   }
 }
